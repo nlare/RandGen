@@ -1,4 +1,4 @@
-randgen
+Random numbers generator
 =======
 
-universal RNG for example 
+Program use Mersenne-Twister library (have with very high period and fastest then many others) 
